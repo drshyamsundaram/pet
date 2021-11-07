@@ -32,6 +32,21 @@ NIST Privacy Risk Assessment Methodology (PRAM) [Reference](https://www.nist.gov
 The NIST Privacy Engineering Collaboration Space is an online venue open to the public where practitioners can discover, share, discuss, and improve upon open source tools, solutions, and processes that support privacy engineering and risk management.
 [Reference](https://github.com/usnistgov/PrivacyEngCollabSpace)
 
+# ARX Tool
+ARX is a comprehensive open source software for anonymizing sensitive personal data. It has been designed from the ground up to provide high scalability, ease of use and a tight integration of the many different aspects relevant to data anonymization. Its highlights include:
+
+Utility-focused anonymization using different statistical models
+Syntactic privacy models, such as k-anonymity, ℓ-diversity, t-closeness and δ-presence
+Semantic privacy models, such as (ɛ, δ)-differential privacy
+Methods for optimizing the profitability of data publishing based on monetary cost-benefit analyses
+Data transformation with generalization, suppression, microaggregation and top/bottom coding as well as global and local recoding
+Methods for analyzing data utility
+Methods for analyzing re-identification risks
+
+Tool download : [Reference](https://arx.deidentifier.org/downloads/)
+Configuration : [Reference](https://arx.deidentifier.org/anonymization-tool/configuration/)
+Github : [Reference](https://github.com/arx-deidentifier/arx)
+
 # References - General 
 1. NIST Privacy Engineering [Reference](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/about)
 2. NIST Privacy Framework [Reference](https://www.nist.gov/system/files/documents/2020/01/16/NIST%20Privacy%20Framework_V1.0.pdf)
