@@ -85,7 +85,9 @@ Github : [Reference](https://github.com/arx-deidentifier/arx)
 3. Implement Differential Privacy with TensorFlow Privacy| DP-SGD Algorithm Explained [Reference](https://www.tensorflow.org/responsible_ai/privacy/tutorials/classification_privacy)
 
 # References - k-anonimity
-1. k-anonymity [Reference](https://en.wikipedia.org/wiki/K-anonymity)
-2. K-anonymity Implementation References (Nuclearstar github) |  [Reference](https://github.com/Nuclearstar/K-Anonymity)
-3. Implement Differential Privacy with TensorFlow Privacy| DP-SGD Algorithm Explained [Reference](https://www.tensorflow.org/responsible_ai/privacy/tutorials/classification_privacy)
-
+1. K-anonymity [Reference](https://en.wikipedia.org/wiki/K-anonymity)
+2. K-anonymity: A MODEL FOR PROTECTING PRIVACY LATANYA SWEENEY [Reference](https://epic.org/wp-content/uploads/privacy/reidentification/Sweeney_Article.pdf)
+3. K-anonymity Implementation References (Nuclearstar github) |  [Reference](https://github.com/Nuclearstar/K-Anonymity)
+4. An intoduction (privitar) [Reference](https://www.privitar.com/blog/k-anonymity-an-introduction/)
+5. K-anonymity Slides [Reference](https://www.cs.cmu.edu/~jblocki/Slides/K-Anonymity.pdf)
+6. K-anonymity Glossary (NIST) [Reference](https://csrc.nist.gov/glossary/term/k_anonymity)
