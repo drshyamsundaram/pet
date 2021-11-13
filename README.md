@@ -2,6 +2,30 @@
 Privacy-enhancing technologies (PET) are technologies that embody fundamental data protection principles by minimizing personal data use, maximizing data security, and empowering individuals. PETs allow online users to protect the privacy of their personally identifiable information (PII) provided to and handled by services or applications. PETs use techniques to minimize possession of personal data without losing the functionality of an information system.[1] Generally speaking, PETs can be categorized as hard and soft privacy technologies.
 [Reference](https://en.wikipedia.org/wiki/Privacy-enhancing_technologies)
 
+# Anonymization methods[Reference](https://github.com/Nuclearstar/K-Anonymity)
+Anonymization method aims at making the individual record be indistinguishable among a group record by using techniques of generalization and suppression.
+The rapid growth of database, networking and computing technologies, a large amount of personal data can be integrated and analyzed digitally, leading to an increased use of data mining tools to infer trends and patterns.
+This has been raised universal concerns about protecting the privacy of individuals.
+
+## K-Anonymity [Reference](https://en.wikipedia.org/wiki/K-anonymity)[Reference](https://github.com/Nuclearstar/K-Anonymity)
+
+k-anonymity is a property possessed by certain anonymized data. The concept of k-anonymity was first introduced by Latanya Sweeney and Pierangela Samarati in a paper published in 1998[1] as an attempt to solve the problem: "Given person-specific field-structured data, produce a release of the data with scientific guarantees that the individuals who are the subjects of the data cannot be re-identified while the data remain practically useful. A release of data is said to have the k-anonymity property if the information for each person contained in the release cannot be distinguished from at least {k-1} individuals whose information also appear in the release.
+
+Turning a dataset into a k-anonymous (and possibly l-diverse or t-close) dataset is a complex problem, and finding the optimal partition into k-anonymous groups is an NP-hard problem. Fortunately, several practical algorithms exists that often produce "good enough" results by employing greedy search techniques.
+In this tutorial we will explore the so-called "Mondrian" algorithm, which uses a greedy search algorithm to partition the original data into smaller and smaller groups (if we plot the resulting partition boundaries in 2D they resemble the pictures by Piet Mondrian, hence the name).
+The algorithm assumes that we have converted all attributes into numerical or categorical values and that we are able to measure the “span” of a given attribute Xi.
+
+## L-diversity[Reference](https://github.com/Nuclearstar/K-Anonymity)
+l-diversity ensures that each k-anonymous group contains at least l different values of the sensitive attribute.
+Therefore, even if an adversary can identify the group of a person he/she still would not be able to find out the value of that person's sensitive attribute with certainty.
+Problem that might happen in k-anonymity is that all people in a k-anonymous group possess the same value of the sensitive attribute. An adversary who knows that a person is in that k-anonymous group can then still learn the value of the sensitive attribute of that person with absolute certainty. This problem can be fixed by using l-diversity.
+
+## T-closeness[Reference](https://github.com/Nuclearstar/K-Anonymity)
+t-closeness is a further refinement of l-diversity group based anonymization that is used to preserve privacy in data sets by reducing the granularity of a data representation.
+This reduction is a trade off that results in some loss of effectiveness of data management or mining algorithms in order to gain some privacy.
+The t-closeness model extends the l-diversity model by treating the values of an attribute distinctly by taking into account the distribution of data values for that attribute.
+t-closeness demands that the statistical distribution of the sensitive attribute values in each k-anonymous group is "close" to the overall distribution of that attribute in the entire dataset.
+
 # What is Differential Privacy
 Differential privacy (DP) is a system for publicly sharing information about a dataset by describing the patterns of groups within the dataset while withholding information about individuals in the dataset. The idea behind differential privacy is that if the effect of making an arbitrary single substitution in the database is small enough, the query result cannot be used to infer much about any single individual, and therefore provides privacy. Another way to describe differential privacy is as a constraint on the algorithms used to publish aggregate information about a statistical database which limits the disclosure of private information of records whose information is in the database. For example, differentially private algorithms are used by some government agencies to publish demographic information or other statistical aggregates while ensuring confidentiality of survey responses, and by companies to collect information about user behavior while controlling what is visible even to internal analysts.
 
@@ -60,4 +84,8 @@ Github : [Reference](https://github.com/arx-deidentifier/arx)
 2. Differential Privacy Series Part 1 | DP-SGD Algorithm Explained [Reference](https://medium.com/pytorch/differential-privacy-series-part-1-dp-sgd-algorithm-explained-12512c3959a3)
 3. Implement Differential Privacy with TensorFlow Privacy| DP-SGD Algorithm Explained [Reference](https://www.tensorflow.org/responsible_ai/privacy/tutorials/classification_privacy)
 
+# References - k-anonimity
+1. k-anonymity [Reference](https://en.wikipedia.org/wiki/K-anonymity)
+2. K-anonymity Implementation References (Nuclearstar github) |  [Reference](https://github.com/Nuclearstar/K-Anonymity)
+3. Implement Differential Privacy with TensorFlow Privacy| DP-SGD Algorithm Explained [Reference](https://www.tensorflow.org/responsible_ai/privacy/tutorials/classification_privacy)
 
