@@ -66,10 +66,16 @@ Methods for optimizing the profitability of data publishing based on monetary co
 Data transformation with generalization, suppression, microaggregation and top/bottom coding as well as global and local recoding
 Methods for analyzing data utility
 Methods for analyzing re-identification risks
-
 Tool download : [Reference](https://arx.deidentifier.org/downloads/)
 Configuration : [Reference](https://arx.deidentifier.org/anonymization-tool/configuration/)
 Github : [Reference](https://github.com/arx-deidentifier/arx)
+
+# Gretal.ai [Reference](https://gretel.ai/)
+Gretel.ai automates privacy engineering, enabling companies to reduce the time to access sensitive data by up to 10x and backed by mathematical privacy guarantees
+Tool download : [Reference](https://console.gretel.cloud/login)
+Docs : [Reference](https://docs.gretel.ai/)
+Github : [Reference](https://github.com/gretelai)
+Article : [Reference](https://medium.com/gretel-ai/using-generative-differentially-private-models-to-build-privacy-enhancing-synthetic-datasets-c0633856184)
 
 # References - General 
 1. NIST Privacy Engineering [Reference](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/about)
@@ -83,6 +89,7 @@ Github : [Reference](https://github.com/arx-deidentifier/arx)
 1. Gradient descent [Reference](https://en.wikipedia.org/wiki/Gradient_descent)
 2. Differential Privacy Series Part 1 | DP-SGD Algorithm Explained [Reference](https://medium.com/pytorch/differential-privacy-series-part-1-dp-sgd-algorithm-explained-12512c3959a3)
 3. Implement Differential Privacy with TensorFlow Privacy| DP-SGD Algorithm Explained [Reference](https://www.tensorflow.org/responsible_ai/privacy/tutorials/classification_privacy)
+4. Machine learning with differential privacy in tensorflow [Reference](http://www.cleverhans.io/privacy/2019/03/26/machine-learning-with-differential-privacy-in-tensorflow.html)
 
 # References - k-anonimity
 1. K-anonymity [Reference](https://en.wikipedia.org/wiki/K-anonymity)
