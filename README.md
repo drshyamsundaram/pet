@@ -56,9 +56,32 @@ NIST Privacy Risk Assessment Methodology (PRAM) [Reference](https://www.nist.gov
 The NIST Privacy Engineering Collaboration Space is an online venue open to the public where practitioners can discover, share, discuss, and improve upon open source tools, solutions, and processes that support privacy engineering and risk management.
 [Reference](https://github.com/usnistgov/PrivacyEngCollabSpace)
 
+# References - General 
+1. NIST Privacy Engineering [Reference](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/about)
+2. NIST Privacy Framework [Reference](https://www.nist.gov/system/files/documents/2020/01/16/NIST%20Privacy%20Framework_V1.0.pdf)
+3. NIST Internal Report (NISTIR) 8062: An Introduction to Privacy Engineering and Risk Management in Federal Systems [Reference](https://doi.org/10.6028/NIST.IR.8062)
+4. NIST Privacy Risk Assessment Methodology (PRAM) [Reference](https://www.nist.gov/document/nist-pram-feb2019zip)
+5. Privacy Engineering Collaboration Space [Reference](https://github.com/usnistgov/PrivacyEngCollabSpace)
+6. Model Open Data Benefit Risk Analysis [Reference](https://fpf.org/blog/fpf-publishes-model-open-data-benefit-risk-analysis/) [Reference](https://fpf.org/wp-content/uploads/2018/01/Model-Benefit-Risk-Analysis.pdf)
+
+# References - Differential Privacy
+1. Gradient descent [Reference](https://en.wikipedia.org/wiki/Gradient_descent)
+2. Differential Privacy Series Part 1 | DP-SGD Algorithm Explained [Reference](https://medium.com/pytorch/differential-privacy-series-part-1-dp-sgd-algorithm-explained-12512c3959a3)
+3. Implement Differential Privacy with TensorFlow Privacy| DP-SGD Algorithm Explained [Reference](https://www.tensorflow.org/responsible_ai/privacy/tutorials/classification_privacy)
+4. Machine learning with differential privacy in tensorflow [Reference](http://www.cleverhans.io/privacy/2019/03/26/machine-learning-with-differential-privacy-in-tensorflow.html)
+5. Differential Privacy in Deep Learning - A practical guide on how Differential Privacy is integrated into Deep Learning architectures for image classification [Reference](https://towardsdatascience.com/differential-privacy-in-deep-learning-cf9cc3591d28)
+6. DIFFERENTIALLY PRIVATE DEEP LEARNING IN 20 LINES OF CODE: HOW TO USE THE PYTORCH OPACUS LIBRARY [Reference](https://blog.openmined.org/differentially-private-deep-learning-using-opacus-in-20-lines-of-code/)
+
+# References - k-anonimity
+1. K-anonymity [Reference](https://en.wikipedia.org/wiki/K-anonymity)
+2. K-anonymity: A MODEL FOR PROTECTING PRIVACY LATANYA SWEENEY [Reference](https://epic.org/wp-content/uploads/privacy/reidentification/Sweeney_Article.pdf)
+3. K-anonymity Implementation References (Nuclearstar github) |  [Reference](https://github.com/Nuclearstar/K-Anonymity)
+4. An intoduction (privitar) [Reference](https://www.privitar.com/blog/k-anonymity-an-introduction/)
+5. K-anonymity Slides [Reference](https://www.cs.cmu.edu/~jblocki/Slides/K-Anonymity.pdf)
+6. K-anonymity Glossary (NIST) [Reference](https://csrc.nist.gov/glossary/term/k_anonymity)
+
 # ARX Tool
 ARX is a comprehensive open source software for anonymizing sensitive personal data. It has been designed from the ground up to provide high scalability, ease of use and a tight integration of the many different aspects relevant to data anonymization. Its highlights include:
-
 Utility-focused anonymization using different statistical models
 Syntactic privacy models, such as k-anonymity, ℓ-diversity, t-closeness and δ-presence
 Semantic privacy models, such as (ɛ, δ)-differential privacy
@@ -77,24 +100,3 @@ Docs : [Reference](https://docs.gretel.ai/)
 Github : [Reference](https://github.com/gretelai)
 Article : [Reference](https://medium.com/gretel-ai/using-generative-differentially-private-models-to-build-privacy-enhancing-synthetic-datasets-c0633856184)
 
-# References - General 
-1. NIST Privacy Engineering [Reference](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/about)
-2. NIST Privacy Framework [Reference](https://www.nist.gov/system/files/documents/2020/01/16/NIST%20Privacy%20Framework_V1.0.pdf)
-3. NIST Internal Report (NISTIR) 8062: An Introduction to Privacy Engineering and Risk Management in Federal Systems [Reference](https://doi.org/10.6028/NIST.IR.8062)
-4. NIST Privacy Risk Assessment Methodology (PRAM) [Reference](https://www.nist.gov/document/nist-pram-feb2019zip)
-5. Privacy Engineering Collaboration Space [Reference](https://github.com/usnistgov/PrivacyEngCollabSpace)
-6. Model Open Data Benefit Risk Analysis [Reference](https://fpf.org/blog/fpf-publishes-model-open-data-benefit-risk-analysis/) [Reference](https://fpf.org/wp-content/uploads/2018/01/Model-Benefit-Risk-Analysis.pdf)
-
-# References - Differential Privacy
-1. Gradient descent [Reference](https://en.wikipedia.org/wiki/Gradient_descent)
-2. Differential Privacy Series Part 1 | DP-SGD Algorithm Explained [Reference](https://medium.com/pytorch/differential-privacy-series-part-1-dp-sgd-algorithm-explained-12512c3959a3)
-3. Implement Differential Privacy with TensorFlow Privacy| DP-SGD Algorithm Explained [Reference](https://www.tensorflow.org/responsible_ai/privacy/tutorials/classification_privacy)
-4. Machine learning with differential privacy in tensorflow [Reference](http://www.cleverhans.io/privacy/2019/03/26/machine-learning-with-differential-privacy-in-tensorflow.html)
-
-# References - k-anonimity
-1. K-anonymity [Reference](https://en.wikipedia.org/wiki/K-anonymity)
-2. K-anonymity: A MODEL FOR PROTECTING PRIVACY LATANYA SWEENEY [Reference](https://epic.org/wp-content/uploads/privacy/reidentification/Sweeney_Article.pdf)
-3. K-anonymity Implementation References (Nuclearstar github) |  [Reference](https://github.com/Nuclearstar/K-Anonymity)
-4. An intoduction (privitar) [Reference](https://www.privitar.com/blog/k-anonymity-an-introduction/)
-5. K-anonymity Slides [Reference](https://www.cs.cmu.edu/~jblocki/Slides/K-Anonymity.pdf)
-6. K-anonymity Glossary (NIST) [Reference](https://csrc.nist.gov/glossary/term/k_anonymity)
