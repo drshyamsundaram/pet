@@ -52,10 +52,16 @@ shared further.
 
 For futher detailed reading , please peruse the article, 'Differentially Private Data Sharing | Sharing Models versus Sharing Data' [Reference](https://chenqingrong.github.io/files/dpgm.pdf)
 
+# Usecases
+## US Census
+Explains the Census Bureau’s decision to modernize the methods we use to protect respondent confidentiality. The adoption of DF and concepts of disclosure avoidance and differential privacy and discuss their implications for census data users. [Reference](https://chenqingrong.github.io/files/dpgm.pdf)
+
+The use of differential privacy for census data and its impact on redistricting: The case of the 2020 U.S. Census [Reference](https://www.science.org/doi/10.1126/sciadv.abk3283)
+
 # NIST's Privacy Engineering Program (PEP)
 Privacy engineering is integral to establishing trustworthiness in information systems that support the growth of the digital economy and improve individual quality of life. NIST research in information technology–including cybersecurity, cloud computing, big data, the Smart Grid and other cyber-physical systems–aims to improve the products and services that bring great advancements to U.S. national and economic security and quality of life. Much of this research pertains to the trustworthiness of these information technologies and the systems in which they are incorporated.
 
-Given concerns about how information technologies may affect privacy at individual and societal levels, the PEP supports the development of trustworthy information systems by applying measurement science and system engineering principles to the creation of frameworks, risk models, guidance, tools, and standards that protect privacy and, by extension, civil liberties. [Reference](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/about)
+Given concerns about how information technologies may affect privacy at individual and societal levels, the PEP supports the development of trustworthy information systems by applying measurement science and system engineering principles to the creation of frameworks, risk models, guidance, tools, and standards that protect privacy and, by extension, civil liberties. [Reference](https://www.census.gov/data/academy/webinars/2021/disclosure-avoidance-series/differential-privacy-101.html)
 
 NIST Privacy Engineering [Reference](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/about)
 NIST Privacy Framework [Reference](https://www.nist.gov/system/files/documents/2020/01/16/NIST%20Privacy%20Framework_V1.0.pdf)
