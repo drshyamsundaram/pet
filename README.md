@@ -42,6 +42,16 @@ Gradient descent is a first-order iterative optimization algorithm for finding a
 Differential privacy (DP) is a framework for measuring the privacy guarantees provided by an algorithm. Through the lens of differential privacy, you can design machine learning algorithms that responsibly train models on private data. Learning with differential privacy provides measurable guarantees of privacy, helping to mitigate the risk of exposing sensitive training data in machine learning. Intuitively, a model trained with differential privacy should not be affected by any single training example, or small set of training examples, in its data set. This helps mitigate the risk of exposing sensitive training data in ML.
 TensorFlow Privacy provides code that wraps an existing TensorFlow optimizer to create a variant that implements DP-SGD.[Reference](https://github.com/tensorflow/privacy/tree/master/tutorials/walkthrough) [Reference](https://github.com/tensorflow/privacy/tree/master/tutorials/walkthrough)
 
+# Differential Privacy autoencoder-based generative model
+## Differentially private autoencoder-based generative model (DP-AuGM)
+This approach is to share models, where we encode the information of the data into a machine learning model for learning data representations and then share the machine learning model instead.
+
+## Differentially private variational autoencoder-based generative model (DP-VaeGM)
+This approach is to share data, where we use the shared data for training a generative model which learns the distribution of the data, and then the generative model is used to generate a new dataset for usage and the new dataset can be
+shared further.
+
+For futher detailed reading , please peruse the article, 'Differentially Private Data Sharing | Sharing Models versus Sharing Data' [Reference](https://chenqingrong.github.io/files/dpgm.pdf)
+
 # NIST's Privacy Engineering Program (PEP)
 Privacy engineering is integral to establishing trustworthiness in information systems that support the growth of the digital economy and improve individual quality of life. NIST research in information technology–including cybersecurity, cloud computing, big data, the Smart Grid and other cyber-physical systems–aims to improve the products and services that bring great advancements to U.S. national and economic security and quality of life. Much of this research pertains to the trustworthiness of these information technologies and the systems in which they are incorporated.
 
