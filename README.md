@@ -87,6 +87,11 @@ The NIST Privacy Engineering Collaboration Space is an online venue open to the 
 4. Machine learning with differential privacy in tensorflow [Reference](http://www.cleverhans.io/privacy/2019/03/26/machine-learning-with-differential-privacy-in-tensorflow.html)
 5. Differential Privacy in Deep Learning - A practical guide on how Differential Privacy is integrated into Deep Learning architectures for image classification [Reference](https://towardsdatascience.com/differential-privacy-in-deep-learning-cf9cc3591d28)
 6. DIFFERENTIALLY PRIVATE DEEP LEARNING IN 20 LINES OF CODE: HOW TO USE THE PYTORCH OPACUS LIBRARY [Reference](https://blog.openmined.org/differentially-private-deep-learning-using-opacus-in-20-lines-of-code/)
+7. How to deploy machine learning with differential privacy, Nicolas Papernot and Abhradeep Guha Thakurta [Reference](https://en.wikipedia.org/wiki/Gradient_descent](https://www.nist.gov/blogs/cybersecurity-insights/how-deploy-machine-learning-differential-privacy)
+8. A Differentially Private Data Analytics API at Scale,Ryan Rogers, LinkedIn [Reference](https://www.usenix.org/conference/pepr20/presentation/rogers)
+9. Google DP Library [Reference](https://github.com/google/differential-privacy)
+10. Boyd, Danah and Sarathy, Jayshree, Differential Perspectives: Epistemic Disconnects Surrounding the US Census Bureau’s Use of Differential Privacy (March 15, 2022). Harvard Data Science Review (Forthcoming) , [Reference](https://ssrn.com/abstract=4077426)
+
 
 # References - k-anonimity
 1. K-anonymity [Reference](https://en.wikipedia.org/wiki/K-anonymity)
@@ -115,4 +120,3 @@ Tool download : [Reference](https://console.gretel.cloud/login)
 Docs : [Reference](https://docs.gretel.ai/)
 Github : [Reference](https://github.com/gretelai)
 Article : [Reference](https://medium.com/gretel-ai/using-generative-differentially-private-models-to-build-privacy-enhancing-synthetic-datasets-c0633856184)
-
