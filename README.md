@@ -91,7 +91,9 @@ The NIST Privacy Engineering Collaboration Space is an online venue open to the 
 8. A Differentially Private Data Analytics API at Scale,Ryan Rogers, LinkedIn [Reference](https://www.usenix.org/conference/pepr20/presentation/rogers)
 9. Google DP Library [Reference](https://github.com/google/differential-privacy)
 10. Boyd, Danah and Sarathy, Jayshree, Differential Perspectives: Epistemic Disconnects Surrounding the US Census Bureau’s Use of Differential Privacy (March 15, 2022). Harvard Data Science Review (Forthcoming) , [Reference](https://ssrn.com/abstract=4077426)
-
+11. Platform-for-differential-privacy [Reference](https://www.microsoft.com/en-us/research/publication/platform-for-differential-privacy/)
+12. new-differential-privacy-platform-microsoft-harvard-opendp [Reference](https://cloudblogs.microsoft.com/opensource/2020/05/19/new-differential-privacy-platform-microsoft-harvard-opendp/)
+13. Opendp [Reference](https://github.com/opendp)
 
 # References - k-anonimity
 1. K-anonymity [Reference](https://en.wikipedia.org/wiki/K-anonymity)
