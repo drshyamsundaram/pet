@@ -94,6 +94,7 @@ The NIST Privacy Engineering Collaboration Space is an online venue open to the 
 11. Platform-for-differential-privacy [Reference](https://www.microsoft.com/en-us/research/publication/platform-for-differential-privacy/)
 12. new-differential-privacy-platform-microsoft-harvard-opendp [Reference](https://cloudblogs.microsoft.com/opensource/2020/05/19/new-differential-privacy-platform-microsoft-harvard-opendp/)
 13. Opendp [Reference](https://github.com/opendp)
+14. How do deploy machine learning with DP (NIST Blog) [Reference](https://www.nist.gov/blogs/cybersecurity-insights/how-deploy-machine-learning-differential-privacy)
 
 # References - k-anonimity
 1. K-anonymity [Reference](https://en.wikipedia.org/wiki/K-anonymity)
@@ -102,6 +103,7 @@ The NIST Privacy Engineering Collaboration Space is an online venue open to the 
 4. An intoduction (privitar) [Reference](https://www.privitar.com/blog/k-anonymity-an-introduction/)
 5. K-anonymity Slides [Reference](https://www.cs.cmu.edu/~jblocki/Slides/K-Anonymity.pdf)
 6. K-anonymity Glossary (NIST) [Reference](https://csrc.nist.gov/glossary/term/k_anonymity)
+7. K-anonymity Samarati_Sweeney Paper [Reference](https://epic.org/wp-content/uploads/privacy/reidentification/Samarati_Sweeney_paper.pdf)
 
 # ARX Tool
 ARX is a comprehensive open source software for anonymizing sensitive personal data. It has been designed from the ground up to provide high scalability, ease of use and a tight integration of the many different aspects relevant to data anonymization. Its highlights include:
