@@ -95,6 +95,13 @@ The NIST Privacy Engineering Collaboration Space is an online venue open to the 
 12. new-differential-privacy-platform-microsoft-harvard-opendp [Reference](https://cloudblogs.microsoft.com/opensource/2020/05/19/new-differential-privacy-platform-microsoft-harvard-opendp/)
 13. Opendp [Reference](https://github.com/opendp)
 14. How do deploy machine learning with DP (NIST Blog) [Reference](https://www.nist.gov/blogs/cybersecurity-insights/how-deploy-machine-learning-differential-privacy)
+15. US Census Bureau - DP related links 
+15.1 [DP & the US 2020 Census](https://youtu.be/PAqE27VcWvs)
+15.2 [DP & the US Census | Cynthia Dwork | Wids 2019](https://youtu.be/nVPE1dbA394)
+15.3 [DP 201 & the Top Down Algorithm](https://youtu.be/bRIoE0rqwAw)
+15.4 [DP & the US Census | ACM 2019](https://youtu.be/NNTBQ_K4h7c)
+15.5 [DP & the US Census | Data Skeptic ](https://youtu.be/Zc7WZveOWVw)
+15.6 [Research into alternatives to DP](https://youtu.be/kXYd4NY9IHc)
 
 # References - k-anonimity
 1. K-anonymity [Reference](https://en.wikipedia.org/wiki/K-anonymity)
