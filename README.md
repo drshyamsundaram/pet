@@ -52,6 +52,11 @@ shared further.
 
 For futher detailed reading , please peruse the article, 'Differentially Private Data Sharing | Sharing Models versus Sharing Data' [Reference](https://chenqingrong.github.io/files/dpgm.pdf)
 
+# Practical Guide to Machine Learning and Differential Privacy
+The following article provide a very comprehensive guide
+
+[How to DP-fy ML: A Practical Guide to Machine Learning with Differential Privacy](https://arxiv.org/pdf/2303.00654.pdf)
+
 # Usecases
 ## Differential Privacy at Scale - US Census Bureau
 Explains the Census Bureau’s decision to modernize the methods we use to protect respondent confidentiality. The adoption of DF and concepts of disclosure avoidance and differential privacy and discuss their implications for census data users. [Reference](https://chenqingrong.github.io/files/dpgm.pdf)
@@ -75,7 +80,6 @@ Explains the Census Bureau’s decision to modernize the methods we use to prote
 [NIST](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/dp-blog) 
 
 [NIST Abhradeep Article](https://www.nist.gov/blogs/cybersecurity-insights/how-deploy-machine-learning-differential-privacy) 
-
 
 The use of differential privacy for census data and its impact on redistricting: The case of the 2020 U.S. Census [Reference](https://www.science.org/doi/10.1126/sciadv.abk3283)
 
@@ -123,6 +127,7 @@ The NIST Privacy Engineering Collaboration Space is an online venue open to the 
 15.4 [DP & the US Census | ACM 2019](https://youtu.be/NNTBQ_K4h7c)
 15.5 [DP & the US Census | Data Skeptic ](https://youtu.be/Zc7WZveOWVw)
 15.6 [Research into alternatives to DP](https://youtu.be/kXYd4NY9IHc)
+15.7 [How to DP-fy ML: A Practical Guide to Machine Learning with Differential Privacy](https://arxiv.org/pdf/2303.00654.pdf)
 
 # References - k-anonimity
 1. K-anonymity [Reference](https://en.wikipedia.org/wiki/K-anonymity)
