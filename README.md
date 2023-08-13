@@ -55,15 +55,25 @@ For futher detailed reading , please peruse the article, 'Differentially Private
 # Usecases
 ## Differential Privacy at Scale - US Census Bureau
 Explains the Census Bureau’s decision to modernize the methods we use to protect respondent confidentiality. The adoption of DF and concepts of disclosure avoidance and differential privacy and discuss their implications for census data users. [Reference](https://chenqingrong.github.io/files/dpgm.pdf)
+
 [DP 101 Census Bureau](https://youtu.be/Hsh1R1WA0kU)
+
 [DP 201 and Top Down Algorithm](https://youtu.be/bRIoE0rqwAw)
+
 [Cynthia D - DP & US Census Bureau](https://youtu.be/Ai2O0xZBH8k)
+
 [Alternatives to DP | US Census Bureau](https://youtu.be/kXYd4NY9IHc)
+
 [Cynthia D - DP & US Census Bureau](https://youtu.be/Ai2O0xZBH8k)
+
 [US Census Bureau and tribal consultation on DP](https://youtu.be/yu-Hzr843Ek) 
- [US Census Bureau NAC](https://youtu.be/kwEK9EI5uAU)
+
+[US Census Bureau NAC](https://youtu.be/kwEK9EI5uAU)
+
 [DP @ US Census](https://youtu.be/Zc7WZveOWVw) 
+
 [NIST](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/dp-blog) 
+
 [NIST Abhradeep Article](https://www.nist.gov/blogs/cybersecurity-insights/how-deploy-machine-learning-differential-privacy) 
 
 
