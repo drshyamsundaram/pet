@@ -129,6 +129,24 @@ The NIST Privacy Engineering Collaboration Space is an online venue open to the 
 15.6 Research into alternatives to DP [Reference](https://youtu.be/kXYd4NY9IHc)
 16. How to DP-fy ML: A Practical Guide to Machine Learning with Differential Privacy [Reference](https://arxiv.org/pdf/2303.00654.pdf)
 
+# PyTorch Related
+
+1. PyTorch opacus [Reference](https://github.com/pytorch/opacus)
+2. PyTorch Tensorboard [Reference](https://pytorch.org/tutorials/_sources/beginner/introyt/tensorboardyt_tutorial.rst.txt)
+https://youtu.be/6CEld3hZgqc) 
+3. PyTorch Model Explainability - PyTorch Captum [Reference](https://pytorch.org/tutorials/_sources/beginner/introyt/captumyt.rst.txt) 
+[Reference](https://youtu.be/Am2EF9CLu-g) 
+4. PyTorch Model Saving related
+[Reference](https://pytorch.org/tutorials/beginner/saving_loading_models.html) 
+[Reference](https://stackoverflow.com/questions/42703500/how-do-i-save-a-trained-model-in-pytorch) 
+
+# Google/Tensorflow Related
+
+1. Tensorflow Privacy [Reference](https://github.com/tensorflow/privacy) 
+2. Tensorflow federated [Reference](https://www.tensorflow.org/federated) 
+3. Google DP [Reference](https://github.com/google/differential-privacy/tree/main/python)     
+
+
 # References - k-anonimity
 1. K-anonymity [Reference](https://en.wikipedia.org/wiki/K-anonymity)
 2. K-anonymity: A MODEL FOR PROTECTING PRIVACY LATANYA SWEENEY [Reference](https://epic.org/wp-content/uploads/privacy/reidentification/Sweeney_Article.pdf)
