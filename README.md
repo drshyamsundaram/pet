@@ -57,6 +57,13 @@ The following article provide a very comprehensive guide
 
 [How to DP-fy ML: A Practical Guide to Machine Learning with Differential Privacy](https://arxiv.org/pdf/2303.00654.pdf)
 
+# Data Empowerment And Protection Architecture (DEPA) - India
+[DEPA_training_framework](https://depa.world/training/depa_training_framework)
+[dpi-ai-depa-machine-learning-training-part-1](https://www.linkedin.com/pulse/dpi-ai-depa-machine-learning-training-part-1-dr-shyam-sundaram-sriyf/)
+[introducing-depa-for-training-dpi-for-responsible-ai](https://pn.ispirt.in/introducing-depa-for-training-dpi-for-responsible-ai/)
+[open-house-on-depa-training-2-dpi-to-unfreeze-data-markets-lets-make-india-an-ai-nation](https://pn.ispirt.in/open-house-on-depa-training-2-dpi-to-unfreeze-data-markets-lets-make-india-an-ai-nation/)
+[open-house-on-depa-training-3-the-regulatory-and-legal-aspects](https://pn.ispirt.in/open-house-on-depa-training-3-the-regulatory-and-legal-aspects/)
+
 # Usecases
 ## Differential Privacy at Scale - US Census Bureau
 Explains the Census Bureau’s decision to modernize the methods we use to protect respondent confidentiality. The adoption of DF and concepts of disclosure avoidance and differential privacy and discuss their implications for census data users. [Reference](https://chenqingrong.github.io/files/dpgm.pdf)
