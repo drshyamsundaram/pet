@@ -59,9 +59,13 @@ The following article provide a very comprehensive guide
 
 # Data Empowerment And Protection Architecture (DEPA) - India
 [DEPA_training_framework](https://depa.world/training/depa_training_framework)
+
 [dpi-ai-depa-machine-learning-training-part-1](https://www.linkedin.com/pulse/dpi-ai-depa-machine-learning-training-part-1-dr-shyam-sundaram-sriyf/)
+
 [introducing-depa-for-training-dpi-for-responsible-ai](https://pn.ispirt.in/introducing-depa-for-training-dpi-for-responsible-ai/)
+
 [open-house-on-depa-training-2-dpi-to-unfreeze-data-markets-lets-make-india-an-ai-nation](https://pn.ispirt.in/open-house-on-depa-training-2-dpi-to-unfreeze-data-markets-lets-make-india-an-ai-nation/)
+
 [open-house-on-depa-training-3-the-regulatory-and-legal-aspects](https://pn.ispirt.in/open-house-on-depa-training-3-the-regulatory-and-legal-aspects/)
 
 # Usecases
